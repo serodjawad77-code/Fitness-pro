@@ -1,0 +1,19 @@
+{
+  "name": "Fitness Pro",
+  "short_name": "Fitness Pro",
+  "description": "Ton coach sportif dans ton téléphone",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101812",
+  "theme_color": "#101812",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
